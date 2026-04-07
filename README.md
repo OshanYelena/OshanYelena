@@ -4,6 +4,13 @@
 🧠 AI Engineering • Multi-Agent Systems • Distributed Systems  
 ⚙️ Building intelligent systems that reason, communicate, and collaborate  
 
+
+## 🤝 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/oshan-ranasinghe/
+- 🌐 Portfolio: https://oshan.dev/
+
+
 ---
 
 ## 🚀 About Me
@@ -109,13 +116,6 @@ AI-powered autonomous drone (vision-based perception)
 - Autonomous multi-agent collaboration frameworks  
 - Reasoning-driven architectures on top of LLMs  
 - Production-grade intelligent platforms  
-
----
-
-## 🤝 Connect
-
-- 💼 LinkedIn: [Add your link]
-- 🌐 Portfolio: [Add your link]
 
 ---
 
